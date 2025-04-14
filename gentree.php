@@ -1,4 +1,6 @@
 <?php
+//test
+
 //считываем параметры из командной строки
 $cli = getopt('',array('input:','output:','compare:'));
 
